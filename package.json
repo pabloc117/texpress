@@ -1,0 +1,27 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Aprendiendo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "Pablo Cifuentes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pabloc117/texpress.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pabloc117/texpress/issues"
+  },
+  "homepage": "https://github.com/pabloc117/texpress#readme"
+}
