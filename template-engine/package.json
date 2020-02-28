@@ -1,0 +1,21 @@
+{
+  "name": "template-engine",
+  "version": "1.0.0",
+  "description": "template engine",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  },
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [
+    "N/A"
+  ],
+  "author": "Pablo Cifuentes",
+  "license": "ISC"
+}
